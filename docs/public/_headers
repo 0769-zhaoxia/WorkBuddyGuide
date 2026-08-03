@@ -4,6 +4,11 @@
 /community/*
   Cache-Control: public, max-age=2592000
 
+/community/workbuddy-wechat-group.jpg
+  ! Cache-Control
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+  Cloudflare-CDN-Cache-Control: no-store
+
 /og/*
   Cache-Control: public, max-age=2592000
 
