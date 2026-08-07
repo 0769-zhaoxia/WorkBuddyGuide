@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [vue()],
   test: {
     environment: "happy-dom",
-    include: ["docs/.vitepress/**/*.test.ts"],
+    include: ["docs/.vitepress/**/*.test.ts", "functions/**/*.test.ts"],
     restoreMocks: true,
   },
 });
