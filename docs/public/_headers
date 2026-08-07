@@ -10,7 +10,7 @@
 /community/contacts/*
   Cache-Control: public, max-age=2592000
 
-/community/workbuddy-wechat-group.jpg
+/community/workbuddy-wechat-group*
   Cache-Control: no-store, no-cache, must-revalidate, max-age=0
   Cloudflare-CDN-Cache-Control: no-store
 
