@@ -13,7 +13,7 @@ withDefaults(
   <figure class="wb-group-qr" :class="{ 'is-screen-menu': screenMenu }">
     <div class="wb-group-qr__frame">
       <img
-        src="/community/workbuddy-wechat-group.jpg?v=20260803-2"
+        src="/community/workbuddy-wechat-group.jpg?v=20260807"
         width="396"
         height="396"
         alt="WorkBuddy 微信交流群二维码"
